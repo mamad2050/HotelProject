@@ -1,0 +1,2 @@
+2  100  2  55  vip  yes  yes  yes  yes  no  Empty
+  1  1  1  1  1  1  1  1  1  Empty
